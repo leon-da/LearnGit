@@ -6,3 +6,4 @@ E:\192.168.208.10_2013-11-22_16\dir-dsp.txt;
 This file is only test git. 
 
 How are you ?
+I'm fine.And you?
